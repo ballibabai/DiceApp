@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         
         diceOne.image = UIImage(named: "1.png")
         diceTwo.image = UIImage(named: "2.png")
+        diceOne.image = UIImage(named: "3.png")
     }
 
     @IBAction func rollButton(_ sender: UIButton) {
